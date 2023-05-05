@@ -2860,3 +2860,985 @@ playwright._impl._api_types.TimeoutError: Timeout 30000ms exceeded.
 =========================== logs ===========================
   waiting for frame "xpath=//div[@id='webPurchaseContainer']//iframe"
 ============================================================
+2023-05-05 09:33:17.884 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:33:18.075 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:33:18.086 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-05-05 09:33:19.400 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-05-05 09:33:19.457 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:33:33.481 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:33:33.482 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:33:35.799 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:33:35.800 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:33:35.909 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:33:36.081 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.17s
+2023-05-05 09:33:36.299 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:33:51.465 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:33:51.465 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:33:53.628 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:33:53.628 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:33:53.729 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:33:53.909 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.18s
+2023-05-05 09:33:54.096 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:34:06.275 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:34:06.275 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:34:08.488 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:34:08.488 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:34:09.055 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:34:10.485 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.43s
+2023-05-05 09:34:10.486 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:10.689 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:10.692 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:10.693 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:10.881 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:10.884 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:10.885 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:11.081 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:11.085 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:11.086 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:11.286 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:11.289 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:11.289 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:11.480 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:11.484 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:11.485 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:11.690 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:11.693 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:11.693 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:11.900 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:11.904 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:11.904 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:12.113 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:12.116 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:12.116 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:12.309 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:12.312 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:12.312 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:12.501 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:12.504 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:12.504 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:12.709 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:13.795 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.02s
+2023-05-05 09:34:13.809 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:34:15.829 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:34:15.830 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:34:16.431 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:34:17.884 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.45s
+2023-05-05 09:34:17.886 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:18.092 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:18.095 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:18.095 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:18.290 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:18.293 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:18.293 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:18.492 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:18.495 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:18.496 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:18.685 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:18.688 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:18.689 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:18.876 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:18.879 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:18.880 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:19.084 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:19.087 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:19.088 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:19.286 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:19.289 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:19.289 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:19.499 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:19.502 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:19.503 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:19.704 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:19.707 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:19.707 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:19.902 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:19.905 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:19.906 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:20.110 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:21.173 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.02s
+2023-05-05 09:34:21.196 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:34:21.196 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:34:23.200 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:34:35.486 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:34:35.486 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:34:37.705 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:34:37.705 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:34:38.284 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:34:39.727 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.44s
+2023-05-05 09:34:39.733 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:39.939 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:39.942 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:39.942 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:40.137 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:40.140 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:40.140 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:40.339 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:40.342 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:40.343 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:40.538 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:40.541 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:40.542 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:40.744 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:40.748 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:40.749 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:40.959 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:40.962 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:40.962 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:41.171 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:41.174 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:41.174 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:41.380 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:41.383 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:41.383 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:41.593 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:41.596 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:41.596 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:41.798 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:41.802 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:41.802 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:42.015 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:43.111 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.07s
+2023-05-05 09:34:43.127 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:34:45.151 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:34:45.152 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:34:45.750 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:34:47.184 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.43s
+2023-05-05 09:34:47.185 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:47.393 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:47.396 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:47.397 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:47.595 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:47.598 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:47.599 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:47.795 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:47.799 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:47.800 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:47.995 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:47.999 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:48.000 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:48.193 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:48.196 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:48.196 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:48.405 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:48.408 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:48.408 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:48.611 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:48.615 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:48.615 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:48.832 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:48.835 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:48.835 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:49.032 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:49.036 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:49.036 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:49.237 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:49.240 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:34:49.240 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:34:49.459 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:34:50.525 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.06s
+2023-05-05 09:34:50.547 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:34:50.547 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:34:52.551 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:35:04.900 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:35:04.900 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:35:07.116 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:35:07.116 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:35:07.192 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:35:08.624 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.43s
+2023-05-05 09:35:08.824 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:35:20.823 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:35:20.823 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:35:22.990 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:35:22.990 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:35:23.570 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:35:24.947 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.38s
+2023-05-05 09:35:24.949 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:25.144 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:25.147 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:25.147 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:25.338 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:25.342 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:25.342 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:25.527 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:25.531 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:25.532 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:25.749 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:25.752 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:25.752 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:25.944 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:25.948 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:25.948 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:26.143 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:26.147 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:26.148 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:26.348 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:26.352 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:26.352 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:26.555 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:26.558 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:26.559 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:26.747 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:26.751 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:26.751 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:26.938 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:26.941 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:26.941 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:27.129 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:28.214 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 1.98s
+2023-05-05 09:35:28.229 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:35:30.251 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:35:30.251 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:35:30.832 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:35:32.276 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.44s
+2023-05-05 09:35:32.277 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:32.465 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:32.469 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:32.469 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:32.666 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:32.669 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:32.669 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:32.860 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:32.864 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:32.864 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:33.080 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:33.084 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:33.084 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:33.281 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:33.284 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:33.285 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:33.488 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:33.491 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:33.491 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:33.699 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:33.703 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:33.703 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:33.897 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:33.900 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:33.900 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:34.091 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:34.094 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:34.095 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:34.290 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:34.293 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:35:34.293 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:35:34.486 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:35:35.544 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.02s
+2023-05-05 09:35:35.568 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:35:35.568 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:35:37.571 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:35:49.556 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:35:49.556 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:35:51.768 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:35:51.769 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:35:51.845 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:35:53.247 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.4s
+2023-05-05 09:35:53.448 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:36:05.518 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:36:05.519 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:36:07.744 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击泰迪熊鼻子的中心」
+2023-05-05 09:36:07.745 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:36:07.765 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:36:09.305 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.54s
+2023-05-05 09:36:09.565 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:36:19.215 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:36:19.216 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:36:21.465 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:36:21.465 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:36:22.066 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:36:23.505 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.44s
+2023-05-05 09:36:23.506 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:23.698 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:23.701 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:23.701 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:23.892 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:23.896 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:23.897 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:24.105 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:24.108 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:24.109 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:24.303 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:24.306 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:24.308 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:24.511 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:24.516 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:24.516 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:24.703 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:24.707 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:24.707 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:24.906 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:24.912 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:24.912 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:25.106 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:25.109 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:25.110 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:25.315 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:25.318 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:25.319 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:25.514 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:25.518 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:25.519 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:25.729 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:26.812 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.03s
+2023-05-05 09:36:26.829 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:36:28.851 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「小提琴」
+2023-05-05 09:36:28.852 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:36:29.458 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:36:30.773 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.32s
+2023-05-05 09:36:30.774 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:30.964 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:30.968 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:30.969 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:31.168 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:31.172 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:31.173 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:31.374 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:31.378 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:31.378 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:31.567 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:31.570 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:31.571 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:31.778 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:31.782 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:31.783 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:31.988 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:31.991 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:31.991 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:32.187 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:32.191 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:32.191 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:32.383 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:32.386 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:32.387 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:32.592 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:32.595 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:32.596 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:32.784 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:32.788 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=violin.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:32.789 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:32.995 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:34.050 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - violin(ResNet)_model: 2.03s
+2023-05-05 09:36:34.081 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:36:34.081 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:36:36.084 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:36:47.951 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:36:47.952 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:36:50.147 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「电动滑板车」
+2023-05-05 09:36:50.147 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:36:50.748 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:36:52.185 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.44s
+2023-05-05 09:36:52.186 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:52.380 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:52.384 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:52.385 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:52.572 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:52.576 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:52.577 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:52.778 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:52.782 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:52.783 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:52.974 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:52.979 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:52.979 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:53.179 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:53.183 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:53.183 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:53.371 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:53.374 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:53.374 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:53.580 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:53.583 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:53.583 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:53.795 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:53.799 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:53.800 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:53.985 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:53.988 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:53.989 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:54.180 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:54.184 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:54.184 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:54.387 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:55.478 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - electric_scooter(ResNet)_model: 2.0s
+2023-05-05 09:36:55.494 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:36:57.517 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「电动滑板车」
+2023-05-05 09:36:57.518 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:36:58.091 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:36:59.584 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.49s
+2023-05-05 09:36:59.585 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:59.785 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:59.788 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:59.789 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:36:59.982 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:36:59.985 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:36:59.986 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:00.181 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:00.184 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:00.185 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:00.373 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:00.377 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:00.378 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:00.573 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:00.578 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:00.578 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:00.779 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:00.782 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:00.783 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:00.983 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:00.986 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:00.986 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:01.146 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:163 - ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+2023-05-05 09:37:01.148 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:01.148 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:01.335 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:01.339 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:01.340 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:01.528 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:01.532 | WARNING  | hcaptcha_challenger._solutions.resnet:classifier:55 - 
+            The remote network does not exist or the local cache has expired.
+            1. Check objects.yaml for typos | model=electric_scooter.onnx;
+            2. Restart the program after deleting the local cache | dir=datas/models/_assets;
+            
+2023-05-05 09:37:01.533 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:01.736 | ERROR    | hcaptcha_challenger._solutions.kernel:_request_assets:165 - 0
+2023-05-05 09:37:02.802 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - electric_scooter(ResNet)_model: 1.95s
+2023-05-05 09:37:02.823 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:37:02.824 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:37:04.826 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:37:14.799 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:37:14.800 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:37:17.037 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:37:17.038 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:37:17.128 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:37:18.525 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.4s
+2023-05-05 09:37:18.734 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:37:30.747 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:37:30.747 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:37:32.963 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:37:32.963 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:37:33.039 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:37:34.464 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.43s
+2023-05-05 09:37:34.674 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:37:46.521 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:37:46.521 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:37:48.725 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「柠檬」
+2023-05-05 09:37:48.725 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:37:49.262 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:37:50.659 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.4s
+2023-05-05 09:37:50.661 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_assets:156 - Pulling AssetsObject from https://api.github.com/repos/QIN2DIM/hcaptcha-challenger/releases
+2023-05-05 09:37:51.150 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:323 - Downloading lemon.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/lemon.onnx
+2023-05-05 09:37:53.419 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - lemon(ResNet)_model: 0.55s
+2023-05-05 09:37:53.432 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:37:55.456 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「柠檬」
+2023-05-05 09:37:55.456 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:37:56.000 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:37:57.381 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.38s
+2023-05-05 09:37:59.446 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - lemon(ResNet)_model: 0.01s
+2023-05-05 09:37:59.511 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:37:59.511 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:38:01.514 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:38:12.288 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:38:12.288 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:38:14.504 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「电动滑板车」
+2023-05-05 09:38:14.504 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:38:15.138 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:38:16.671 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.53s
+2023-05-05 09:38:16.675 | DEBUG    | hcaptcha_challenger._solutions.kernel:_request_asset:323 - Downloading electric_scooter.onnx from https://github.com/QIN2DIM/hcaptcha-challenger/releases/download/model/electric_scooter.onnx
+2023-05-05 09:38:18.511 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - electric_scooter(ResNet)_model: 0.57s
+2023-05-05 09:38:18.530 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:38:20.553 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「电动滑板车」
+2023-05-05 09:38:20.554 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:38:21.126 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:38:22.535 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.41s
+2023-05-05 09:38:24.217 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Submit the challenge - electric_scooter(ResNet)_model: 0.01s
+2023-05-05 09:38:24.276 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Checkout - status=再试一次
+2023-05-05 09:38:24.277 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 获取响应 - desc=继续挑战(continue)
+2023-05-05 09:38:26.279 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-05-05 09:38:37.997 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-05-05 09:38:37.997 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-05-05 09:38:40.162 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么物体？」
+2023-05-05 09:38:40.163 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-05-05 09:38:40.240 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-05-05 09:38:41.730 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.49s
+2023-05-05 09:38:41.933 | CRITICAL | services.bricklayer.core:refresh_ctx_cookies:717 - >> MISS [CookieManager] Identity token update failed
+2023-05-05 09:38:47.165 | INFO     | services.bricklayer.core:load_ctx_cookies:659 - >> LOAD [CookieManager] Load context cookie
+2023-05-05 09:38:47.167 | INFO     | services.explorer.explorer:load_memory:195 - 加载历史订单数据 本地缓存119小时有效
+2023-05-05 09:38:47.177 | INFO     | services.explorer.explorer:get_oder_history:216 - 初始化订单数据
+2023-05-05 09:38:47.531 | ERROR    | services.explorer.explorer:get_order_history:142 - Failed to get order history, cookie may have expired
+Traceback (most recent call last):
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 301, in run
+    promotions = self.preload()
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 269, in preload
+    self.ph.get_oder_history(ctx_cookies=self._ctx_cookies)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/explorer/explorer.py", line 219, in get_oder_history
+    if resp := explorer.get_order_history(ctx_cookies):
+> File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/explorer/explorer.py", line 140, in get_order_history
+    raise RequestException("Failed to get order history, cookie may have expired")
+requests.exceptions.RequestException: Failed to get order history, cookie may have expired
+2023-05-05 09:38:48.164 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] Horizon Chase Turbo - state=待认领 link=https://store.epicgames.com/zh-CN/p/horizon-chase-turbo
+2023-05-05 09:38:48.164 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] Kao the Kangaroo - state=待认领 link=https://store.epicgames.com/zh-CN/p/kao-the-kangaroo-62abe3
+2023-05-05 09:38:48.165 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] Against All Odds - state=待认领 link=https://store.epicgames.com/zh-CN/p/against-all-odds-409105
+2023-05-05 09:38:53.264 | DEBUG    | services.bricklayer.game:purchase_status:113 - >> Checkout [GameClaimer] Horizon Chase Turbo - state=获取 link=https://store.epicgames.com/zh-CN/p/horizon-chase-turbo
+2023-05-05 09:38:53.897 | INFO     | services.bricklayer.game:get_free_game:152 - [🔖] 已激活商品页零元购订单
+2023-05-05 09:38:53.957 | DEBUG    | services.bricklayer.core:cart_handle_payment:556 - [🛵] 处理购物订单...
+2023-05-05 09:39:29.166 | ERROR    | services.scaffold:claim:138 - An error has been caught in function 'claim', process 'MainProcess' (1796), thread 'MainThread' (139675498867584):
+Traceback (most recent call last):
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+> File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 305, in run
+    result = empower_games_claimer(self.bricklayer, promotion.url, page, pattern="get")
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/game.py", line 170, in empower_games_claimer
+    return claimer.get_free_game(page_link=page_link, page=page, pattern=pattern)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/game.py", line 157, in get_free_game
+    self.cart_handle_payment(page)  # mode: get
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/core.py", line 557, in cart_handle_payment
+    if self._click_order_button(page):  # cart_handle_payment
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/core.py", line 456, in _click_order_button
+    payment_btn.click()
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/sync_api/_generated.py", line 13519, in click
+    self._sync(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_sync_base.py", line 104, in _sync
+    return task.result()
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_locator.py", line 149, in click
+    return await self._frame.click(self._selector, strict=True, **params)
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_frame.py", line 484, in click
+    await self._channel.send("click", locals_to_params(locals()))
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 43, in send
+    return await self._connection.wrap_api_call(
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 396, in wrap_api_call
+    return await cb()
+  File "/opt/hostedtoolcache/Python/3.10.11/x64/lib/python3.10/site-packages/playwright/_impl/_connection.py", line 78, in inner_send
+    result = next(iter(done)).result()
+playwright._impl._api_types.TimeoutError: Timeout 30000ms exceeded.
+=========================== logs ===========================
+  waiting for frame "xpath=//div[@id='webPurchaseContainer']//iframe"
+============================================================
