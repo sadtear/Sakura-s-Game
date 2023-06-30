@@ -1,17 +1,11 @@
-2023/06/29-09:57:55.879 79b Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
-2023/06/29-09:57:55.880 79b Recovering log #14
-2023/06/29-09:57:55.880 79b Level-0 table #17: started
-2023/06/29-09:57:55.926 79b Level-0 table #17: 8083 bytes OK
-2023/06/29-09:57:55.937 79b Delete type=0 #4
-2023/06/29-09:57:55.937 79b Delete type=0 #14
-2023/06/29-09:57:55.937 79b Delete type=0 #9
-2023/06/29-09:57:55.937 79b Delete type=0 #3
-2023/06/29-09:57:55.940 79d Compacting 4@0 + 1@1 files
-2023/06/29-09:57:55.946 79d Generated table #19@0: 2652 keys, 19676 bytes
-2023/06/29-09:57:55.962 79d Compacted 4@0 + 1@1 files => 19676 bytes
-2023/06/29-09:57:55.975 79d compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/29-09:57:55.976 79d Delete type=2 #8
-2023/06/29-09:57:55.976 79d Delete type=2 #17
-2023/06/29-09:57:55.976 79d Delete type=2 #15
-2023/06/29-09:57:55.976 79d Delete type=2 #10
-2023/06/29-09:57:55.976 79d Delete type=2 #13
+2023/06/30-09:56:20.885 792 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
+2023/06/30-09:56:20.886 792 Recovering log #18
+2023/06/30-09:56:20.886 792 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000018.log 
+2023/06/30-09:56:20.887 792 Delete type=2 #10
+2023/06/30-09:56:20.887 792 Delete type=2 #15
+2023/06/30-09:56:20.887 792 Delete type=0 #14
+2023/06/30-09:56:20.887 792 Delete type=0 #4
+2023/06/30-09:56:20.888 792 Delete type=0 #3
+2023/06/30-09:56:20.888 792 Delete type=2 #13
+2023/06/30-09:56:20.888 792 Delete type=0 #9
+2023/06/30-09:56:20.888 792 Delete type=2 #8
