@@ -8342,3 +8342,92 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 34, in classifier
     if img.shape[0] == ChallengeStyle.WATERMARK:
 AttributeError: 'NoneType' object has no attribute 'shape'
+2023-07-07 10:01:28.647 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-07-07 10:01:29.997 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-07-07 10:01:30.064 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:01:52.346 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:01:52.346 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:01:54.603 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠」
+2023-07-07 10:01:54.604 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:01:54.629 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:01:54.630 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:01:54.860 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:02:31.239 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:02:31.240 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:02:33.547 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠的头」
+2023-07-07 10:02:33.548 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:02:33.565 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:02:33.565 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:02:33.862 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:03:10.202 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:03:10.202 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:03:12.457 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠」
+2023-07-07 10:03:12.457 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:03:12.484 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:03:12.485 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:03:12.702 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:03:48.944 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:03:48.945 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:03:51.154 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠」
+2023-07-07 10:03:51.154 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:03:51.174 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:03:51.174 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:03:51.394 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:04:27.832 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:04:27.833 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:04:30.165 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠的头」
+2023-07-07 10:04:30.166 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:04:30.184 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:04:30.184 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:04:30.416 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:05:06.908 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:05:06.909 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:05:09.193 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击松鼠的头」
+2023-07-07 10:05:09.193 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:05:09.216 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:05:09.217 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:05:09.539 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:05:45.862 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:05:45.862 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:05:48.148 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击狗」
+2023-07-07 10:05:48.148 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:05:48.180 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:05:48.180 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-07 10:05:48.401 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-07 10:06:24.700 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-07 10:06:24.700 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-07 10:06:26.931 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「动物」
+2023-07-07 10:06:26.931 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-07 10:06:27.485 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-07 10:06:28.492 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.01s
+2023-07-07 10:06:28.658 | ERROR    | services.scaffold:claim:138 - An error has been caught in function 'claim', process 'MainProcess' (1833), thread 'MainThread' (139747816070208):
+Traceback (most recent call last):
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+> File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/core.py", line 708, in refresh_ctx_cookies
+    resp = self.armor.anti_hcaptcha(page, window="login", recur_url=recur_url)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/core.py", line 267, in anti_hcaptcha
+    self.challenge(frame_challenge, model=model)
+  File "/home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/services/bricklayer/core.py", line 125, in challenge
+    result = model.solution(img_stream=data, label=self.label_alias[self.label])
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 66, in solution
+    return self.classifier(img_stream, feature_filters=None)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/hcaptcha_challenger/_solutions/resnet.py", line 34, in classifier
+    if img.shape[0] == ChallengeStyle.WATERMARK:
+AttributeError: 'NoneType' object has no attribute 'shape'

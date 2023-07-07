@@ -1,11 +1,14 @@
-2023/07/06-10:04:11.205 7cd Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/06-10:04:11.208 7cd Recovering log #17
-2023/07/06-10:04:11.210 7cd Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/000017.log 
-2023/07/06-10:04:11.212 7cd Delete type=2 #8
-2023/07/06-10:04:11.212 7cd Delete type=2 #15
-2023/07/06-10:04:11.212 7cd Delete type=2 #10
-2023/07/06-10:04:11.212 7cd Delete type=0 #14
-2023/07/06-10:04:11.212 7cd Delete type=0 #9
-2023/07/06-10:04:11.212 7cd Delete type=0 #4
-2023/07/06-10:04:11.212 7cd Delete type=0 #3
-2023/07/06-10:04:11.212 7cd Delete type=2 #13
+2023/07/07-10:01:29.649 7ca Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/07-10:01:29.650 7ca Recovering log #17
+2023/07/07-10:01:29.651 7ca Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/000017.log 
+2023/07/07-10:01:29.651 7ca Delete type=2 #8
+2023/07/07-10:01:29.652 7ca Delete type=2 #15
+2023/07/07-10:01:29.652 7ca Delete type=2 #10
+2023/07/07-10:01:29.652 7ca Delete type=0 #14
+2023/07/07-10:01:29.652 7ca Delete type=0 #9
+2023/07/07-10:01:29.652 7ca Delete type=0 #4
+2023/07/07-10:01:29.652 7ca Delete type=0 #3
+2023/07/07-10:01:29.652 7ca Delete type=2 #13
+2023/07/07-10:02:45.317 7ca Level-0 table #22: started
+2023/07/07-10:02:45.320 7ca Level-0 table #22: 6982 bytes OK
+2023/07/07-10:02:45.342 7ca Delete type=0 #17
