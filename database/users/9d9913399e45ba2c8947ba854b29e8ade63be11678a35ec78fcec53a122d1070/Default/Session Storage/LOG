@@ -1,11 +1,20 @@
-2023/07/07-10:01:29.728 7ca Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
-2023/07/07-10:01:29.729 7ca Recovering log #18
-2023/07/07-10:01:29.730 7ca Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000018.log 
-2023/07/07-10:01:29.731 7ca Delete type=2 #8
-2023/07/07-10:01:29.731 7ca Delete type=2 #15
-2023/07/07-10:01:29.731 7ca Delete type=2 #10
-2023/07/07-10:01:29.731 7ca Delete type=0 #14
-2023/07/07-10:01:29.731 7ca Delete type=0 #9
-2023/07/07-10:01:29.731 7ca Delete type=0 #4
-2023/07/07-10:01:29.731 7ca Delete type=0 #3
-2023/07/07-10:01:29.731 7ca Delete type=2 #13
+2023/07/13-10:04:55.933 7e9 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
+2023/07/13-10:04:55.935 7e9 Recovering log #18
+2023/07/13-10:04:55.935 7e9 Level-0 table #21: started
+2023/07/13-10:04:55.954 7e9 Level-0 table #21: 8177 bytes OK
+2023/07/13-10:04:55.969 7e9 Delete type=0 #18
+2023/07/13-10:04:55.969 7e9 Delete type=2 #8
+2023/07/13-10:04:55.969 7e9 Delete type=2 #15
+2023/07/13-10:04:55.969 7e9 Delete type=2 #10
+2023/07/13-10:04:55.969 7e9 Delete type=0 #14
+2023/07/13-10:04:55.969 7e9 Delete type=0 #9
+2023/07/13-10:04:55.969 7e9 Delete type=0 #4
+2023/07/13-10:04:55.969 7e9 Delete type=0 #3
+2023/07/13-10:04:55.969 7e9 Delete type=2 #13
+2023/07/13-10:25:48.465 ff9 Level-0 table #24: started
+2023/07/13-10:25:48.468 ff9 Level-0 table #24: 7067 bytes OK
+2023/07/13-10:25:48.470 ff9 Delete type=0 #22
+2023/07/13-10:29:08.063 ff9 Level-0 table #26: started
+2023/07/13-10:29:08.066 ff9 Level-0 table #26: 6919 bytes OK
+2023/07/13-10:29:08.070 ff9 Delete type=0 #23
+2023/07/13-10:29:12.264 11cf Level-0 table #28: started
