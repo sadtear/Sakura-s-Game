@@ -1,36 +1,27 @@
-2023/07/20-09:41:55.800 810 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/20-09:41:55.805 810 Recovering log #32
-2023/07/20-09:41:55.805 810 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/000032.log 
-2023/07/20-09:41:55.806 810 Delete type=0 #26
-2023/07/20-09:41:55.806 810 Delete type=2 #22
-2023/07/20-09:41:55.806 810 Delete type=2 #8
-2023/07/20-09:41:55.806 810 Delete type=2 #15
-2023/07/20-09:41:55.806 810 Delete type=2 #10
-2023/07/20-09:41:55.806 810 Delete type=2 #25
-2023/07/20-09:41:55.806 810 Delete type=2 #19
-2023/07/20-09:41:55.806 810 Delete type=0 #14
-2023/07/20-09:41:55.806 810 Delete type=0 #17
-2023/07/20-09:41:55.806 810 Delete type=2 #27
-2023/07/20-09:41:55.806 810 Delete type=0 #9
-2023/07/20-09:41:55.806 810 Delete type=0 #4
-2023/07/20-09:41:55.806 810 Delete type=0 #21
-2023/07/20-09:41:55.806 810 Delete type=0 #3
-2023/07/20-09:41:55.806 810 Delete type=2 #13
-2023/07/20-09:47:02.852 ab1 Level-0 table #36: started
-2023/07/20-09:47:02.855 ab1 Level-0 table #36: 7043 bytes OK
-2023/07/20-09:47:02.857 ab1 Delete type=0 #32
-2023/07/20-09:54:03.667 c3d Level-0 table #38: started
-2023/07/20-09:54:03.670 c3d Level-0 table #38: 7002 bytes OK
-2023/07/20-09:54:03.671 c3d Delete type=0 #35
-2023/07/20-10:00:03.667 f7f Level-0 table #40: started
-2023/07/20-10:00:03.672 f7f Level-0 table #40: 6967 bytes OK
-2023/07/20-10:00:03.674 f7f Delete type=0 #37
-2023/07/20-10:00:03.674 f7f Compacting 4@0 + 1@1 files
-2023/07/20-10:00:03.676 f7f Generated table #41@0: 523 keys, 4006 bytes
-2023/07/20-10:00:03.677 f7f Compacted 4@0 + 1@1 files => 4006 bytes
-2023/07/20-10:00:03.677 f7f compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/20-10:00:03.678 f7f Delete type=2 #40
-2023/07/20-10:00:03.678 f7f Delete type=2 #31
-2023/07/20-10:00:03.678 f7f Delete type=2 #33
-2023/07/20-10:00:03.678 f7f Delete type=2 #36
-2023/07/20-10:00:03.678 f7f Delete type=2 #38
+2023/07/21-09:43:48.280 7e9 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/21-09:43:48.281 7e9 Recovering log #39
+2023/07/21-09:43:48.281 7e9 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Local Storage/leveldb/000039.log 
+2023/07/21-09:43:48.281 7e9 Delete type=0 #26
+2023/07/21-09:43:48.282 7e9 Delete type=2 #22
+2023/07/21-09:43:48.282 7e9 Delete type=2 #31
+2023/07/21-09:43:48.282 7e9 Delete type=2 #33
+2023/07/21-09:43:48.282 7e9 Delete type=2 #8
+2023/07/21-09:43:48.282 7e9 Delete type=2 #15
+2023/07/21-09:43:48.282 7e9 Delete type=2 #10
+2023/07/21-09:43:48.282 7e9 Delete type=2 #25
+2023/07/21-09:43:48.282 7e9 Delete type=2 #19
+2023/07/21-09:43:48.282 7e9 Delete type=0 #32
+2023/07/21-09:43:48.282 7e9 Delete type=0 #14
+2023/07/21-09:43:48.282 7e9 Delete type=0 #17
+2023/07/21-09:43:48.282 7e9 Delete type=2 #27
+2023/07/21-09:43:48.282 7e9 Delete type=0 #9
+2023/07/21-09:43:48.282 7e9 Delete type=0 #4
+2023/07/21-09:43:48.282 7e9 Delete type=0 #21
+2023/07/21-09:43:48.282 7e9 Delete type=0 #3
+2023/07/21-09:43:48.282 7e9 Delete type=2 #13
+2023/07/21-09:52:55.081 91f Level-0 table #44: started
+2023/07/21-09:52:55.082 91f Level-0 table #44: 7129 bytes OK
+2023/07/21-09:52:55.098 91f Delete type=0 #39
+2023/07/21-10:03:55.081 91f Level-0 table #46: started
+2023/07/21-10:03:55.082 91f Level-0 table #46: 6990 bytes OK
+2023/07/21-10:03:55.085 91f Delete type=0 #43
