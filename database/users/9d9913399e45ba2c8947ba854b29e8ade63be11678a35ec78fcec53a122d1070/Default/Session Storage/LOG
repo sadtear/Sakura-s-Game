@@ -1,39 +1,31 @@
-2023/07/27-09:26:47.242 809 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
-2023/07/27-09:26:47.243 809 Recovering log #43
-2023/07/27-09:26:47.243 809 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000043.log 
-2023/07/27-09:26:47.244 809 Delete type=0 #27
-2023/07/27-09:26:47.244 809 Delete type=0 #18
-2023/07/27-09:26:47.245 809 Delete type=2 #24
-2023/07/27-09:26:47.245 809 Delete type=2 #31
-2023/07/27-09:26:47.245 809 Delete type=2 #33
-2023/07/27-09:26:47.245 809 Delete type=2 #8
-2023/07/27-09:26:47.245 809 Delete type=2 #15
-2023/07/27-09:26:47.245 809 Delete type=2 #26
-2023/07/27-09:26:47.245 809 Delete type=2 #10
-2023/07/27-09:26:47.245 809 Delete type=2 #28
-2023/07/27-09:26:47.245 809 Delete type=2 #19
-2023/07/27-09:26:47.245 809 Delete type=0 #37
-2023/07/27-09:26:47.245 809 Delete type=0 #32
-2023/07/27-09:26:47.245 809 Delete type=2 #29
-2023/07/27-09:26:47.245 809 Delete type=0 #25
-2023/07/27-09:26:47.245 809 Delete type=0 #14
-2023/07/27-09:26:47.245 809 Delete type=0 #9
-2023/07/27-09:26:47.245 809 Delete type=0 #4
-2023/07/27-09:26:47.245 809 Delete type=2 #21
-2023/07/27-09:26:47.245 809 Delete type=0 #3
-2023/07/27-09:26:47.245 809 Delete type=2 #13
-2023/07/27-09:43:26.139 e6b Level-0 table #47: started
-2023/07/27-09:43:26.141 e6b Level-0 table #47: 7400 bytes OK
-2023/07/27-09:43:26.143 e6b Delete type=0 #43
-2023/07/27-09:50:52.003 1226 Level-0 table #49: started
-2023/07/27-09:50:52.008 1226 Level-0 table #49: 7743 bytes OK
-2023/07/27-09:50:52.011 1226 Delete type=0 #46
-2023/07/27-09:50:52.013 1226 Compacting 4@0 + 1@1 files
-2023/07/27-09:50:52.018 1226 Generated table #50@0: 7365 keys, 53770 bytes
-2023/07/27-09:50:52.018 1226 Compacted 4@0 + 1@1 files => 53770 bytes
-2023/07/27-09:50:52.019 1226 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/07/27-09:50:52.023 1226 Delete type=2 #49
-2023/07/27-09:50:52.023 1226 Delete type=2 #47
-2023/07/27-09:50:52.023 1226 Delete type=2 #42
-2023/07/27-09:50:52.023 1226 Delete type=2 #44
-2023/07/27-09:50:52.023 1226 Delete type=2 #39
+2023/07/28-09:34:31.850 835 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
+2023/07/28-09:34:31.851 835 Recovering log #48
+2023/07/28-09:34:31.853 835 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000048.log 
+2023/07/28-09:34:31.854 835 Delete type=0 #27
+2023/07/28-09:34:31.854 835 Delete type=0 #18
+2023/07/28-09:34:31.854 835 Delete type=2 #24
+2023/07/28-09:34:31.854 835 Delete type=0 #43
+2023/07/28-09:34:31.854 835 Delete type=2 #31
+2023/07/28-09:34:31.854 835 Delete type=2 #33
+2023/07/28-09:34:31.854 835 Delete type=2 #8
+2023/07/28-09:34:31.855 835 Delete type=2 #15
+2023/07/28-09:34:31.855 835 Delete type=2 #26
+2023/07/28-09:34:31.855 835 Delete type=2 #10
+2023/07/28-09:34:31.855 835 Delete type=2 #28
+2023/07/28-09:34:31.855 835 Delete type=2 #42
+2023/07/28-09:34:31.855 835 Delete type=2 #44
+2023/07/28-09:34:31.855 835 Delete type=2 #19
+2023/07/28-09:34:31.855 835 Delete type=0 #37
+2023/07/28-09:34:31.855 835 Delete type=2 #39
+2023/07/28-09:34:31.855 835 Delete type=0 #32
+2023/07/28-09:34:31.855 835 Delete type=2 #29
+2023/07/28-09:34:31.855 835 Delete type=0 #25
+2023/07/28-09:34:31.855 835 Delete type=0 #14
+2023/07/28-09:34:31.855 835 Delete type=0 #9
+2023/07/28-09:34:31.855 835 Delete type=0 #4
+2023/07/28-09:34:31.855 835 Delete type=2 #21
+2023/07/28-09:34:31.855 835 Delete type=0 #3
+2023/07/28-09:34:31.855 835 Delete type=2 #13
+2023/07/28-09:50:20.004 c88 Level-0 table #53: started
+2023/07/28-09:50:20.023 c88 Level-0 table #53: 7346 bytes OK
+2023/07/28-09:50:20.026 c88 Delete type=0 #48
