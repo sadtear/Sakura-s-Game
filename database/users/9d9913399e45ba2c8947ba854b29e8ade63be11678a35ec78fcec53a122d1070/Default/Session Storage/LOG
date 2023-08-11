@@ -1,35 +1,38 @@
-2023/08/10-09:41:19.293 840 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
-2023/08/10-09:41:19.294 840 Recovering log #63
-2023/08/10-09:41:19.294 840 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000063.log 
-2023/08/10-09:41:19.296 840 Delete type=0 #57
-2023/08/10-09:41:19.296 840 Delete type=0 #32
-2023/08/10-09:41:19.296 840 Delete type=0 #48
-2023/08/10-09:41:19.296 840 Delete type=0 #14
-2023/08/10-09:41:19.296 840 Delete type=2 #53
-2023/08/10-09:41:19.296 840 Delete type=2 #10
-2023/08/10-09:41:19.297 840 Delete type=2 #56
-2023/08/10-09:41:19.297 840 Delete type=2 #15
-2023/08/10-09:41:19.297 840 Delete type=0 #3
-2023/08/10-09:41:19.297 840 Delete type=2 #42
-2023/08/10-09:41:19.297 840 Delete type=2 #44
-2023/08/10-09:41:19.297 840 Delete type=0 #9
-2023/08/10-09:41:19.297 840 Delete type=0 #52
-2023/08/10-09:41:19.297 840 Delete type=2 #21
-2023/08/10-09:41:19.297 840 Delete type=2 #13
-2023/08/10-09:41:19.297 840 Delete type=0 #43
-2023/08/10-09:41:19.297 840 Delete type=0 #27
-2023/08/10-09:41:19.297 840 Delete type=2 #58
-2023/08/10-09:41:19.297 840 Delete type=2 #24
-2023/08/10-09:41:19.297 840 Delete type=2 #28
-2023/08/10-09:41:19.297 840 Delete type=2 #29
-2023/08/10-09:41:19.297 840 Delete type=2 #19
-2023/08/10-09:41:19.297 840 Delete type=2 #26
-2023/08/10-09:41:19.297 840 Delete type=0 #37
-2023/08/10-09:41:19.297 840 Delete type=0 #4
-2023/08/10-09:41:19.297 840 Delete type=2 #33
-2023/08/10-09:41:19.297 840 Delete type=2 #50
-2023/08/10-09:41:19.297 840 Delete type=2 #31
-2023/08/10-09:41:19.297 840 Delete type=0 #25
-2023/08/10-09:41:19.297 840 Delete type=2 #8
-2023/08/10-09:41:19.297 840 Delete type=2 #39
-2023/08/10-09:41:19.297 840 Delete type=0 #18
+2023/08/11-09:16:29.444 833 Reusing MANIFEST /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/MANIFEST-000001
+2023/08/11-09:16:29.446 833 Recovering log #63
+2023/08/11-09:16:29.447 833 Reusing old log /home/runner/work/Sakura-s-Game/Sakura-s-Game/epic/src/database/users/9d9913399e45ba2c8947ba854b29e8ade63be11678a35ec78fcec53a122d1070/Default/Session Storage/000063.log 
+2023/08/11-09:16:29.454 833 Delete type=0 #57
+2023/08/11-09:16:29.454 833 Delete type=0 #32
+2023/08/11-09:16:29.454 833 Delete type=0 #48
+2023/08/11-09:16:29.454 833 Delete type=0 #14
+2023/08/11-09:16:29.454 833 Delete type=2 #53
+2023/08/11-09:16:29.454 833 Delete type=2 #10
+2023/08/11-09:16:29.454 833 Delete type=2 #56
+2023/08/11-09:16:29.454 833 Delete type=2 #15
+2023/08/11-09:16:29.454 833 Delete type=0 #3
+2023/08/11-09:16:29.454 833 Delete type=2 #42
+2023/08/11-09:16:29.454 833 Delete type=2 #44
+2023/08/11-09:16:29.454 833 Delete type=0 #9
+2023/08/11-09:16:29.454 833 Delete type=0 #52
+2023/08/11-09:16:29.454 833 Delete type=2 #21
+2023/08/11-09:16:29.454 833 Delete type=2 #13
+2023/08/11-09:16:29.455 833 Delete type=0 #43
+2023/08/11-09:16:29.455 833 Delete type=0 #27
+2023/08/11-09:16:29.455 833 Delete type=2 #58
+2023/08/11-09:16:29.455 833 Delete type=2 #24
+2023/08/11-09:16:29.455 833 Delete type=2 #28
+2023/08/11-09:16:29.455 833 Delete type=2 #29
+2023/08/11-09:16:29.455 833 Delete type=2 #19
+2023/08/11-09:16:29.455 833 Delete type=2 #26
+2023/08/11-09:16:29.455 833 Delete type=0 #37
+2023/08/11-09:16:29.455 833 Delete type=0 #4
+2023/08/11-09:16:29.455 833 Delete type=2 #33
+2023/08/11-09:16:29.455 833 Delete type=2 #50
+2023/08/11-09:16:29.455 833 Delete type=2 #31
+2023/08/11-09:16:29.455 833 Delete type=0 #25
+2023/08/11-09:16:29.455 833 Delete type=2 #8
+2023/08/11-09:16:29.455 833 Delete type=2 #39
+2023/08/11-09:16:29.455 833 Delete type=0 #18
+2023/08/11-09:33:57.715 1039 Level-0 table #67: started
+2023/08/11-09:33:57.719 1039 Level-0 table #67: 8221 bytes OK
+2023/08/11-09:33:57.721 1039 Delete type=0 #63
